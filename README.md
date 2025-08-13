@@ -5,14 +5,16 @@
 <h3 align="center">안녕하세요 👋</h3>
 <h3 align="center">백엔드 개발자를 꿈꾸고 있는 신창훈입니다😊</h3>
 <h4 align="center">사람들과 소통하며 새로운 것을 배우는 것을 좋아합니다.</h4>
+<hr>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
